@@ -58,7 +58,7 @@
   <a href="mailto:kimhee0010@naver.com">
     <img src="https://img.shields.io/badge/kimhee0010@naver.com-2DB400?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
   </a>
-  <a href="https://speckled-meeting-8f9.PortFolio.site/Littlebit-2fbe3d635bfc80cf812df966ab82974f?source=copy_link">
-    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <a href="https://speckled-meeting-8f9.notion.site/Littlebit-2fbe3d635bfc80cf812df966ab82974f?source=copy_link">
+    <img src="https://img.shields.io/badge/PortFolio-F3F3F3.svg?style=for-the-badge&logo=PortFolio&logoColor=black" />&nbsp
   </a>
 </div>
