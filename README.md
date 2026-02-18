@@ -2,17 +2,6 @@
 # 🚀 [LittleBit0]
 **"!TinyTinyTiny!"**
 <h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@littlebit0/">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="https://disquiet.io/@little_bit">
-    <img src="https://img.shields.io/badge/Disquiet-F0F0F0?style=for-the-badge&logo=disquiet&logoColor=333333" />&nbsp
-  </a>
-  <a href="mailto:kimhee0010@naver.com">
-    <img src="https://img.shields.io/badge/kimhee0010@naver.com-2DB400?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
-  </a>
-</div>
 
 ---
 
