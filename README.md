@@ -1,6 +1,6 @@
-
-  # 🚀 [LittleBit0]
-  **"!TinyTinyTiny!"**
+<!--타이틀 부분-->
+# 🚀 [LittleBit0]
+**"!TinyTinyTiny!"**
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@littlebit0/">
@@ -12,7 +12,6 @@
   <a href="mailto:kimhee0010@naver.com">
     <img src="https://img.shields.io/badge/kimhee0010@naver.com-2DB400?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
   </a>
-
 </div>
 
 ---
@@ -23,13 +22,14 @@
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
+</div>
 <br>
 
 <div align="center">
@@ -61,5 +61,15 @@
 
 <br>
 
-
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@littlebit0/">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="https://disquiet.io/@little_bit">
+    <img src="https://img.shields.io/badge/Disquiet-F0F0F0?style=for-the-badge&logo=disquiet&logoColor=333333" />&nbsp
+  </a>
+  <a href="mailto:kimhee0010@naver.com">
+    <img src="https://img.shields.io/badge/kimhee0010@naver.com-2DB400?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
+  </a>
 </div>
