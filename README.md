@@ -1,66 +1,57 @@
-<!--타이틀 부분-->
-# 🚀 [LittleBit0]
-**"!TinyTinyTiny!"**
-
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
 
-<br>
+<br />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
-</div>
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=32&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+LittleBit0+%F0%9F%91%8B;Tiny+steps%2C+meaningful+things.;%22!TinyTinyTiny!%22" alt="Typing SVG" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-</div>
+<p>
+  <samp>Frontend · Backend · Data · Mobile</samp>
+</p>
 
-<br>
+<a href="https://velog.io/@littlebit0/"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog" /></a>
+<a href="https://disquiet.io/@little_bit"><img src="https://img.shields.io/badge/Disquiet-111111?style=flat-square&logoColor=white" alt="Disquiet" /></a>
+<a href="mailto:kimhee0010@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email" /></a>
+<a href="https://speckled-meeting-8f9.notion.site/Littlebit-2fbe3d635bfc80cf812df966ab82974f?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" alt="Portfolio" /></a>
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
-</div>
+<br /><br />
 
-<br>
+## Tech
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,html,css,c,python&theme=dark&perline=7" alt="Tech Stack" />
 
-<br>
+<br />
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@littlebit0/">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="https://disquiet.io/@little_bit">
-    <img src="https://img.shields.io/badge/Disquiet-F0F0F0?style=for-the-badge&logo=disquiet&logoColor=333333" />&nbsp
-  </a>
-  <a href="mailto:kimhee0010@naver.com">
-    <img src="https://img.shields.io/badge/kimhee0010@naver.com-2DB400?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
-  </a>
-  <a href="https://speckled-meeting-8f9.notion.site/Littlebit-2fbe3d635bfc80cf812df966ab82974f?source=copy_link">
-    <img src="https://img.shields.io/badge/PortFolio-F3F3F3.svg?style=for-the-badge&logo=PortFolio&logoColor=black" />&nbsp
-  </a>
+<img src="https://skillicons.dev/icons?i=typescript,java,spring,flutter&theme=dark&perline=4" alt="Currently Studying" />
+
+<p><sub>currently exploring — TypeScript · Java · Spring · Flutter</sub></p>
+
+<br />
+
+## Data & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
+</p>
+
+<img src="https://skillicons.dev/icons?i=git,github,notion,vscode,figma&theme=dark&perline=5" alt="Tools" />
+
+<br /><br />
+
+## GitHub
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=littlebit0&theme=github_dark" alt="GitHub Stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=littlebit0&theme=github_dark" alt="Top Languages" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=littlebit0&bg_color=00000000&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Flow" width="92%" alt="Contribution Graph" />
+
+<br />
+
+<sub><samp>build small · learn always · ship often</samp></sub>
+
+<br /><br />
+
 </div>
