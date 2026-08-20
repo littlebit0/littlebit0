@@ -10,7 +10,7 @@
 
 <a href="https://velog.io/@littlebit0/"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog" /></a>
 <a href="https://disquiet.io/@little_bit"><img src="https://img.shields.io/badge/Disquiet-111111?style=flat-square&logoColor=white" alt="Disquiet" /></a>
-<a href="mailto:kimhee0010@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Email" /></a>
+<a href="mailto:littlebits12n@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://speckled-meeting-8f9.notion.site/Littlebit-2fbe3d635bfc80cf812df966ab82974f?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" alt="Portfolio" /></a>
 
 <br /><br />
