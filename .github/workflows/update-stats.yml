@@ -1,4 +1,4 @@
-name: Update profile stats
+name: Update profile
 on:
   schedule:
     - cron: "17 * * * *"
@@ -14,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: ./.github/scripts/update-stats.sh
+      - run: python3 -I .github/scripts/build_profile.py assets/profile.svg
         env:
           GH_TOKEN: ${{ github.token }}
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A; git diff --cached --quiet || (git commit -m "chore: update profile stats" && git push)
+          git add -A; git diff --cached --quiet || (git commit -m "chore: update profile" && git push)
