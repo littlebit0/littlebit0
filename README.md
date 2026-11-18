@@ -27,11 +27,11 @@
 <img align="top" src="assets/p/049.svg" width="190" height="42" alt="learning"><img align="top" src="assets/p/050.svg" width="142" height="42" alt="TypeScript"><img align="top" src="assets/p/051.svg" width="101" height="42" alt="Spring"><img align="top" src="assets/p/052.svg" width="427" height="42" alt="">
 <img align="top" src="assets/p/053.svg" width="860" height="24" alt="">
 <img align="top" src="assets/p/054.svg" width="860" height="34" alt="gh stats --user littlebit0">
-<img align="top" src="assets/p/055.svg" width="860" height="34" alt="commits 1,928">
+<img align="top" src="assets/p/055.svg" width="860" height="34" alt="commits 1,919">
 <img align="top" src="assets/p/056.svg" width="860" height="34" alt="issues 636">
 <img align="top" src="assets/p/057.svg" width="860" height="34" alt="pull requests 464">
 <img align="top" src="assets/p/058.svg" width="860" height="34" alt="stars 5">
-<img align="top" src="assets/p/059.svg" width="860" height="34" alt="contributions 3,003  (1y)">
+<img align="top" src="assets/p/059.svg" width="860" height="34" alt="contributions 2,840  (1y)">
 <img align="top" src="assets/p/060.svg" width="860" height="24" alt="">
 <img align="top" src="assets/p/061.svg" width="860" height="34" alt="gh repo list --by-language">
 <img align="top" src="assets/p/062.svg" width="860" height="34" alt="Python 2 repos  29%">
