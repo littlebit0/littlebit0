@@ -114,16 +114,19 @@ y += 20
 
 # stack
 prompt("ls ~/stack"); y += 24
-rows = [("languages", "#79c0ff", False, ["JavaScript", "Python", "C", "HTML", "CSS"]),
+rows = [("languages", "#79c0ff", False, ["JavaScript", "Python", "C", "HTML", "CSS", "Java", "Swift", "Kotlin", "Flutter"]),
         ("frameworks", "#7ee787", False, ["React", "Node.js"]),
         ("data", "#d2a8ff", False, ["Pandas", "NumPy", "Matplotlib"]),
-        ("tools", "#ffa657", False, ["Git", "GitHub", "Notion", "VS Code", "Figma"]),
-        ("learning", "#f2cc60", True, ["TypeScript", "Java", "Spring", "Flutter"])]
+        ("tools", "#ffa657", False, ["Git", "GitHub", "Notion", "VS Code", "Xcode", "Figma"]),
+        ("learning", "#f2cc60", True, ["TypeScript", "Spring"])]
 for label, c, dash, items in rows:
     parts.append(f'<text x="32" y="{y+20}" fill="#8b949e">{label}</text>')
     x = 190
     for it in items:
         pw = len(it) * 10.2 + 28
+        if x + pw > 860:
+            x = 190
+            y += 40
         d = ' stroke-dasharray="5 4"' if dash else ""
         parts.append(f'<rect x="{x:.1f}" y="{y}" width="{pw:.1f}" height="30" rx="15" fill="{c}" fill-opacity="0.12" stroke="{c}" stroke-width="1.5"{d}/>'
                      f'<text x="{x+pw/2:.1f}" y="{y+20}" text-anchor="middle" fill="#f0f6fc" font-size="15">{esc(it)}</text>')
