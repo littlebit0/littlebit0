@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: python3 -I .github/scripts/build_profile.py assets/profile.svg
+      - run: python3 -I .github/scripts/build_profile.py .
         env:
           GH_TOKEN: ${{ github.token }}
       - run: |
