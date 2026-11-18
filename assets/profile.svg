@@ -48,11 +48,11 @@
 <rect x="190.0" y="812" width="130.0" height="30" rx="15" fill="#f2cc60" fill-opacity="0.12" stroke="#f2cc60" stroke-width="1.5" stroke-dasharray="5 4"/><text x="255.0" y="832" text-anchor="middle" fill="#f0f6fc" font-size="15">TypeScript</text>
 <rect x="332.0" y="812" width="89.2" height="30" rx="15" fill="#f2cc60" fill-opacity="0.12" stroke="#f2cc60" stroke-width="1.5" stroke-dasharray="5 4"/><text x="376.6" y="832" text-anchor="middle" fill="#f0f6fc" font-size="15">Spring</text>
 <text x="32" y="886" fill="#7ee787">❯</text><text x="56" y="886" fill="#f0f6fc">gh stats --user littlebit0</text>
-<text x="32" y="934" fill="#8b949e">commits</text><rect x="210" y="920" width="440" height="14" rx="7" fill="#21262d"/><rect x="210" y="920" width="282" height="14" rx="7" fill="url(#g1)"/><text x="670" y="934" fill="#f0f6fc" font-weight="700">1,923</text>
-<text x="32" y="972" fill="#8b949e">issues</text><rect x="210" y="958" width="440" height="14" rx="7" fill="#21262d"/><rect x="210" y="958" width="93" height="14" rx="7" fill="url(#g2)"/><text x="670" y="972" fill="#f0f6fc" font-weight="700">636</text>
-<text x="32" y="1010" fill="#8b949e">pull requests</text><rect x="210" y="996" width="440" height="14" rx="7" fill="#21262d"/><rect x="210" y="996" width="68" height="14" rx="7" fill="url(#g3)"/><text x="670" y="1010" fill="#f0f6fc" font-weight="700">464</text>
+<text x="32" y="934" fill="#8b949e">commits</text><rect x="210" y="920" width="440" height="14" rx="7" fill="#21262d"/><rect x="210" y="920" width="297" height="14" rx="7" fill="url(#g1)"/><text x="670" y="934" fill="#f0f6fc" font-weight="700">1,913</text>
+<text x="32" y="972" fill="#8b949e">issues</text><rect x="210" y="958" width="440" height="14" rx="7" fill="#21262d"/><rect x="210" y="958" width="99" height="14" rx="7" fill="url(#g2)"/><text x="670" y="972" fill="#f0f6fc" font-weight="700">636</text>
+<text x="32" y="1010" fill="#8b949e">pull requests</text><rect x="210" y="996" width="440" height="14" rx="7" fill="#21262d"/><rect x="210" y="996" width="72" height="14" rx="7" fill="url(#g3)"/><text x="670" y="1010" fill="#f0f6fc" font-weight="700">464</text>
 <text x="32" y="1048" fill="#8b949e">stars</text><rect x="210" y="1034" width="440" height="14" rx="7" fill="#21262d"/><rect x="210" y="1034" width="14" height="14" rx="7" fill="url(#g4)"/><text x="670" y="1048" fill="#f0f6fc" font-weight="700">5</text>
-<text x="32" y="1086" fill="#8b949e">contributions</text><rect x="210" y="1072" width="440" height="14" rx="7" fill="#21262d"/><rect x="210" y="1072" width="440" height="14" rx="7" fill="url(#g5)"/><text x="670" y="1086" fill="#f0f6fc" font-weight="700">2,998  (1y)</text>
+<text x="32" y="1086" fill="#8b949e">contributions</text><rect x="210" y="1072" width="440" height="14" rx="7" fill="#21262d"/><rect x="210" y="1072" width="440" height="14" rx="7" fill="url(#g5)"/><text x="670" y="1086" fill="#f0f6fc" font-weight="700">2,837  (1y)</text>
 <text x="32" y="1134" fill="#7ee787">❯</text><text x="56" y="1134" fill="#f0f6fc">gh repo list --by-language</text>
 <text x="32" y="1182" fill="#8b949e">Python</text><rect x="210" y="1168" width="440" height="14" rx="7" fill="#21262d"/><rect x="210" y="1168" width="440" height="14" rx="7" fill="url(#lg0)"/><text x="670" y="1182" fill="#f0f6fc" font-weight="700">2 repos  29%</text>
 <text x="32" y="1220" fill="#8b949e">JavaScript</text><rect x="210" y="1206" width="440" height="14" rx="7" fill="#21262d"/><rect x="210" y="1206" width="220" height="14" rx="7" fill="url(#lg1)"/><text x="670" y="1220" fill="#f0f6fc" font-weight="700">1 repo  14%</text>
@@ -65,35 +65,37 @@
 <line x1="56" y1="1489.3" x2="844" y2="1489.3" stroke="#21262d" stroke-width="1"/>
 <line x1="56" y1="1532.7" x2="844" y2="1532.7" stroke="#21262d" stroke-width="1"/>
 <line x1="56" y1="1576.0" x2="844" y2="1576.0" stroke="#21262d" stroke-width="1"/>
-<polygon points="56,1576 56.0,1563.8 83.2,1572.4 110.3,1523.0 137.5,1525.0 164.7,1505.6 191.9,1456.7 219.0,1568.9 246.2,1576.0 273.4,1576.0 300.6,1574.5 327.7,1569.4 354.9,1570.9 382.1,1549.0 409.2,1542.9 436.4,1567.3 463.6,1575.5 490.8,1543.4 517.9,1576.0 545.1,1527.6 572.3,1553.6 599.4,1543.4 626.6,1571.4 653.8,1567.3 681.0,1571.4 708.1,1576.0 735.3,1576.0 762.5,1574.0 789.7,1569.4 816.8,1544.9 844.0,1446.0 844,1576" fill="url(#area)"/>
-<polyline points="56.0,1563.8 83.2,1572.4 110.3,1523.0 137.5,1525.0 164.7,1505.6 191.9,1456.7 219.0,1568.9 246.2,1576.0 273.4,1576.0 300.6,1574.5 327.7,1569.4 354.9,1570.9 382.1,1549.0 409.2,1542.9 436.4,1567.3 463.6,1575.5 490.8,1543.4 517.9,1576.0 545.1,1527.6 572.3,1553.6 599.4,1543.4 626.6,1571.4 653.8,1567.3 681.0,1571.4 708.1,1576.0 735.3,1576.0 762.5,1574.0 789.7,1569.4 816.8,1544.9 844.0,1446.0" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="56.0" cy="1563.8" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="83.2" cy="1572.4" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="110.3" cy="1523.0" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="137.5" cy="1525.0" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="164.7" cy="1505.6" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="191.9" cy="1456.7" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="219.0" cy="1568.9" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="300.6" cy="1574.5" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="327.7" cy="1569.4" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="354.9" cy="1570.9" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="382.1" cy="1549.0" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="409.2" cy="1542.9" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="436.4" cy="1567.3" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="463.6" cy="1575.5" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="490.8" cy="1543.4" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="545.1" cy="1527.6" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="572.3" cy="1553.6" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<polygon points="56,1576 56.0,1563.4 83.2,1567.1 110.3,1567.1 137.5,1446.0 164.7,1563.1 191.9,1500.1 219.0,1550.5 246.2,1575.4 273.4,1576.0 300.6,1573.5 327.7,1575.4 354.9,1566.2 382.1,1558.8 409.2,1554.2 436.4,1565.6 463.6,1575.7 490.8,1544.7 517.9,1574.5 545.1,1548.3 572.3,1554.8 599.4,1543.4 626.6,1570.8 653.8,1568.9 681.0,1562.8 708.1,1576.0 735.3,1576.0 762.5,1541.3 789.7,1572.9 816.8,1553.0 844.0,1503.5 844,1576" fill="url(#area)"/>
+<polyline points="56.0,1563.4 83.2,1567.1 110.3,1567.1 137.5,1446.0 164.7,1563.1 191.9,1500.1 219.0,1550.5 246.2,1575.4 273.4,1576.0 300.6,1573.5 327.7,1575.4 354.9,1566.2 382.1,1558.8 409.2,1554.2 436.4,1565.6 463.6,1575.7 490.8,1544.7 517.9,1574.5 545.1,1548.3 572.3,1554.8 599.4,1543.4 626.6,1570.8 653.8,1568.9 681.0,1562.8 708.1,1576.0 735.3,1576.0 762.5,1541.3 789.7,1572.9 816.8,1553.0 844.0,1503.5" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="56.0" cy="1563.4" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="83.2" cy="1567.1" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="110.3" cy="1567.1" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="137.5" cy="1446.0" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="164.7" cy="1563.1" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="191.9" cy="1500.1" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="219.0" cy="1550.5" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="246.2" cy="1575.4" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="300.6" cy="1573.5" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="327.7" cy="1575.4" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="354.9" cy="1566.2" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="382.1" cy="1558.8" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="409.2" cy="1554.2" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="436.4" cy="1565.6" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="463.6" cy="1575.7" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="490.8" cy="1544.7" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="517.9" cy="1574.5" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="545.1" cy="1548.3" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="572.3" cy="1554.8" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
 <circle cx="599.4" cy="1543.4" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="626.6" cy="1571.4" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="653.8" cy="1567.3" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="681.0" cy="1571.4" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="762.5" cy="1574.0" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="789.7" cy="1569.4" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="816.8" cy="1544.9" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<circle cx="844.0" cy="1446.0" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
-<text x="810.0" y="1436.0" text-anchor="middle" fill="#f0f6fc" font-size="13" font-weight="700">255</text>
-<text x="56" y="1600" fill="#8b949e" font-size="13">10-20</text><text x="844" y="1600" text-anchor="end" fill="#8b949e" font-size="13">11-18</text><text x="450" y="1600" text-anchor="middle" fill="#8b949e" font-size="13">1,418 in 30 days</text>
+<circle cx="626.6" cy="1570.8" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="653.8" cy="1568.9" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="681.0" cy="1562.8" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="762.5" cy="1541.3" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="789.7" cy="1572.9" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="816.8" cy="1553.0" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<circle cx="844.0" cy="1503.5" r="3.2" fill="#0d1117" stroke="#79c0ff" stroke-width="2"/>
+<text x="137.5" y="1436.0" text-anchor="middle" fill="#f0f6fc" font-size="13" font-weight="700">423</text>
+<text x="56" y="1600" fill="#8b949e" font-size="13">10-20</text><text x="844" y="1600" text-anchor="end" fill="#8b949e" font-size="13">11-18</text><text x="450" y="1600" text-anchor="middle" fill="#8b949e" font-size="13">1,989 in 30 days</text>
 <text x="32" y="1654" fill="#7ee787">❯</text><text x="56" y="1654" fill="#f0f6fc">echo &quot;build small · learn always · ship often&quot;</text>
 <text x="32" y="1698" fill="#7ee787">❯</text><rect class="cur" x="56" y="1683" width="10" height="18" fill="#58a6ff"/>
 </g></svg>
