@@ -60,7 +60,7 @@ if contribs is None or not daily or len(daily) < 30:
 import os, shutil
 
 esc = html.escape
-W = 860
+W = 560
 LANG_COLORS = {"Python": "#3572A5", "JavaScript": "#f1e05a", "TypeScript": "#3178c6", "Dart": "#00B4AB",
                "Swift": "#F05138", "Jupyter Notebook": "#DA5B0B", "Java": "#b07219", "Shell": "#89e051",
                "HTML": "#e34c26", "CSS": "#8957e5", "C": "#9aa4af", "Kotlin": "#A97BFF", "C++": "#f34b7d"}
@@ -150,7 +150,7 @@ for label, c, dash, names in stack:
 gap()
 
 # bars
-BX, BW = 210, 400
+BX, BW = 210, 170
 
 
 def bar_row(label, value, vmax, gid, defs, text):
@@ -180,7 +180,7 @@ gap()
 
 # flow
 prompt_row("git log --graph --since=30.days")
-cx0, cx1, ch, top0 = 56, W - 56, 130, 16
+cx0, cx1, ch, top0 = 40, W - 40, 130, 16
 vals = [v for _, v in daily]
 vtop = max(max(vals), 1)
 b = ""
