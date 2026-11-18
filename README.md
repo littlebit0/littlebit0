@@ -54,4 +54,6 @@
 
 <br /><br />
 
+<img src="assets/stats.svg" width="92%" alt="GitHub Stats" />
+
 </div>
