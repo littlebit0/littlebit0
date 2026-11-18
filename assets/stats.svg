@@ -17,11 +17,11 @@
     <text x="32" y="130" fill="#8b949e">commits</text>
     <rect x="170" y="116" width="520" height="14" rx="7" fill="#21262d"/>
     <rect x="170" y="116" width="520" height="14" rx="7" fill="url(#g1)"/>
-    <text x="710" y="130" fill="#f0f6fc" font-weight="700">1,919</text>
+    <text x="710" y="130" fill="#f0f6fc" font-weight="700">1,909</text>
 
     <text x="32" y="168" fill="#8b949e">issues</text>
     <rect x="170" y="154" width="520" height="14" rx="7" fill="#21262d"/>
-    <rect x="170" y="154" width="172" height="14" rx="7" fill="url(#g2)"/>
+    <rect x="170" y="154" width="173" height="14" rx="7" fill="url(#g2)"/>
     <text x="710" y="168" fill="#f0f6fc" font-weight="700">636</text>
 
     <text x="32" y="206" fill="#8b949e">pull requests</text>
