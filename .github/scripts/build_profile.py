@@ -240,5 +240,5 @@ for r in rows:
     yoff += h
 
 with open(os.path.join(ROOT, "README.md"), "w", encoding="utf-8") as f:
-    f.write('<div align="center">\n\n' + "\n".join(lines) + "\n\n</div>\n")
+    f.write('<div align="center">\n\n' + "<br>\n".join(lines) + "\n\n</div>\n")
 print(commits, issues, prs, stars, contribs, "pieces:", n, "H:", H)
