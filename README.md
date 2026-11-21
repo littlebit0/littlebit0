@@ -31,7 +31,7 @@
 <img align="top" src="assets/p/058.svg" width="560" height="34" alt="gh stats --user littlebit0"><br>
 <img align="top" src="assets/p/059.svg" width="560" height="34" alt="commits 1,947"><br>
 <img align="top" src="assets/p/060.svg" width="560" height="34" alt="issues 676"><br>
-<img align="top" src="assets/p/061.svg" width="560" height="34" alt="pull requests 497"><br>
+<img align="top" src="assets/p/061.svg" width="560" height="34" alt="pull requests 527"><br>
 <img align="top" src="assets/p/062.svg" width="560" height="34" alt="stars 5"><br>
 <img align="top" src="assets/p/063.svg" width="560" height="34" alt="contributions 2,904  (1y)"><br>
 <img align="top" src="assets/p/064.svg" width="560" height="24" alt=""><br>
