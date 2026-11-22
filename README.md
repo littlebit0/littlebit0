@@ -23,7 +23,7 @@
 <img align="top" src="assets/p/046.svg" width="25.0%" alt="learning"><img align="top" src="assets/p/047.svg" width="18.6842%" alt="TypeScript"><img align="top" src="assets/p/048.svg" width="13.2895%" alt="Spring"><img align="top" src="assets/p/049.svg" width="43.0263%" alt="">
 <img align="top" src="assets/p/050.svg" width="100%" alt="gh stats --user littlebit0">
 <img align="top" src="assets/p/051.svg" width="100%" alt="commits 1,952">
-<img align="top" src="assets/p/052.svg" width="100%" alt="issues 676">
+<img align="top" src="assets/p/052.svg" width="100%" alt="issues 687">
 <img align="top" src="assets/p/053.svg" width="100%" alt="pull requests 528">
 <img align="top" src="assets/p/054.svg" width="100%" alt="stars 6">
 <img align="top" src="assets/p/055.svg" width="100%" alt="contributions 2,991  (1y)">
