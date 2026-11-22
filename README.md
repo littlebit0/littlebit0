@@ -25,7 +25,7 @@
 <img align="top" src="assets/p/051.svg" width="100%" alt="commits 1,951">
 <img align="top" src="assets/p/052.svg" width="100%" alt="issues 676">
 <img align="top" src="assets/p/053.svg" width="100%" alt="pull requests 527">
-<img align="top" src="assets/p/054.svg" width="100%" alt="stars 5">
+<img align="top" src="assets/p/054.svg" width="100%" alt="stars 6">
 <img align="top" src="assets/p/055.svg" width="100%" alt="contributions 2,989  (1y)">
 <img align="top" src="assets/p/056.svg" width="100%" alt="gh repo list --by-language">
 <img align="top" src="assets/p/057.svg" width="100%" alt="Python 3 repos  38%">
