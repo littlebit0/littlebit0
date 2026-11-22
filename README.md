@@ -33,7 +33,7 @@
 <img align="top" src="assets/p/060.svg" width="560" height="34" alt="issues 676"><br>
 <img align="top" src="assets/p/061.svg" width="560" height="34" alt="pull requests 527"><br>
 <img align="top" src="assets/p/062.svg" width="560" height="34" alt="stars 5"><br>
-<img align="top" src="assets/p/063.svg" width="560" height="34" alt="contributions 2,904  (1y)"><br>
+<img align="top" src="assets/p/063.svg" width="560" height="34" alt="contributions 2,984  (1y)"><br>
 <img align="top" src="assets/p/064.svg" width="560" height="24" alt=""><br>
 <img align="top" src="assets/p/065.svg" width="560" height="34" alt="gh repo list --by-language"><br>
 <img align="top" src="assets/p/066.svg" width="560" height="34" alt="Python 2 repos  29%"><br>
