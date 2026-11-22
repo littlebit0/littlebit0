@@ -60,7 +60,7 @@ if contribs is None or not daily or len(daily) < 30:
 import os, shutil
 
 esc = html.escape
-W = 560
+W = 760
 LANG_COLORS = {"Python": "#3572A5", "JavaScript": "#f1e05a", "TypeScript": "#3178c6", "Dart": "#00B4AB",
                "Swift": "#F05138", "Jupyter Notebook": "#DA5B0B", "Java": "#b07219", "Shell": "#89e051",
                "HTML": "#e34c26", "CSS": "#8957e5", "C": "#9aa4af", "Kotlin": "#A97BFF", "C++": "#f34b7d"}
@@ -84,12 +84,16 @@ def full(h, body, defs="", link=None, alt=""):
     add_row(h, [{"x": 0, "w": W, "body": body, "defs": defs, "link": link, "alt": alt}])
 
 
+PAD = [0]
+
+
 def gap(h=24):
-    full(h, "")
+    PAD[0] = h
 
 
 def prompt_row(cmd):
-    full(34, f'<text x="32" y="22" fill="#7ee787">❯</text><text x="56" y="22" fill="#f0f6fc">{esc(cmd)}</text>', alt=cmd)
+    p = PAD[0]; PAD[0] = 0
+    full(34 + p, f'<text x="32" y="{22+p}" fill="#7ee787">❯</text><text x="56" y="{22+p}" fill="#f0f6fc">{esc(cmd)}</text>', alt=cmd)
 
 
 # title bar
@@ -102,7 +106,7 @@ full(58, '<text x="56" y="44" fill="#58a6ff" font-size="44" font-weight="700">Li
 gap()
 prompt_row("cat motto.txt")
 full(40, '<text x="56" y="26" fill="#f0f6fc" font-size="22">Tiny steps, meaningful things.</text>', alt="Tiny steps, meaningful things.")
-full(30, '<text x="56" y="20" fill="#7ee787">"!TinyTinyTiny!"</text>', alt="TinyTinyTiny")
+full(34, '<text x="56" y="20" fill="#7ee787">"!TinyTinyTiny!"</text>', alt="TinyTinyTiny")
 gap()
 prompt_row("echo $FOCUS")
 full(40, '<text x="56" y="26" font-size="19"><tspan fill="#79c0ff">Frontend</tspan><tspan fill="#8b949e"> · </tspan><tspan fill="#7ee787">Backend</tspan>'
@@ -114,7 +118,7 @@ for name, color, val, href in [("velog", "#20C997", "velog.io/@littlebit0", "htt
                                ("disquiet", "#f0f6fc", "disquiet.io/@little_bit", "https://disquiet.io/@little_bit"),
                                ("email", "#EA4335", "littlebits12n@gmail.com", "mailto:littlebits12n@gmail.com"),
                                ("portfolio", "#79c0ff", "notion.site/Littlebit", "https://speckled-meeting-8f9.notion.site/Littlebit-2fbe3d635bfc80cf812df966ab82974f?source=copy_link")]:
-    full(30, f'<text x="56" y="20" fill="{color}" font-weight="700">{name}</text><text x="190" y="20" fill="#c9d1d9">{val}</text>',
+    full(34, f'<text x="56" y="22" fill="{color}" font-weight="700">{name}</text><text x="190" y="22" fill="#c9d1d9">{val}</text>',
          link=href, alt=f"{name} {val}")
 gap()
 
@@ -150,7 +154,7 @@ for label, c, dash, names in stack:
 gap()
 
 # bars
-BX, BW = 210, 170
+BX, BW = 210, 380
 
 
 def bar_row(label, value, vmax, gid, defs, text):
@@ -205,8 +209,7 @@ full(ay + 12, b, defs='<linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><st
 gap()
 
 prompt_row('echo "build small · learn always · ship often"')
-full(40, '<text x="32" y="26" fill="#7ee787">❯</text><rect class="cur" x="56" y="11" width="10" height="18" fill="#58a6ff"/>', alt="")
-gap(26)
+full(66, '<text x="32" y="26" fill="#7ee787">❯</text><rect class="cur" x="56" y="11" width="10" height="18" fill="#58a6ff"/>', alt="")
 
 H = sum(r["h"] for r in rows)
 outdir = os.path.join(ROOT, "assets", "p")
@@ -219,8 +222,12 @@ n = 0
 for r in rows:
     h = r["h"]
     parts = []
-    for it in r["items"]:
+    acc = 0.0
+    for ii, it in enumerate(r["items"]):
         x, w = it["x"], it["w"]
+        last = ii == len(r["items"]) - 1
+        it["pct"] = f"{100 - acc:.4f}".rstrip("0").rstrip(".") if last else f"{round(100 * w / W, 4)}"
+        acc += 0 if last else round(100 * w / W, 4)
         svg = (f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="{x} 0 {w} {h}">'
                f'<defs><linearGradient id="bg" gradientUnits="userSpaceOnUse" x1="0" y1="{-yoff}" x2="0" y2="{H-yoff}">'
                f'<stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#010409"/></linearGradient>'
@@ -232,7 +239,8 @@ for r in rows:
         n += 1
         with open(os.path.join(outdir, name), "w", encoding="utf-8") as f:
             f.write(svg)
-        tag = f'<img align="top" src="assets/p/{name}" width="{w}" height="{h}" alt="{esc(it["alt"], quote=True)}">'
+        pct = it["pct"]
+        tag = f'<img align="top" src="assets/p/{name}" width="{pct}%" alt="{esc(it["alt"], quote=True)}">'
         if it["link"]:
             tag = f'<a href="{esc(it["link"], quote=True)}">{tag}</a>'
         parts.append(tag)
@@ -240,5 +248,5 @@ for r in rows:
     yoff += h
 
 with open(os.path.join(ROOT, "README.md"), "w", encoding="utf-8") as f:
-    f.write('<div align="center">\n\n' + "<br>\n".join(lines) + "\n\n</div>\n")
+    f.write('<div align="center">\n\n' + "\n".join(lines) + "\n\n</div>\n")
 print(commits, issues, prs, stars, contribs, "pieces:", n, "H:", H)
