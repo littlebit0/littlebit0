@@ -23,10 +23,10 @@
 <img align="top" src="assets/p/046.svg" width="25.0%" alt="learning"><img align="top" src="assets/p/047.svg" width="18.6842%" alt="TypeScript"><img align="top" src="assets/p/048.svg" width="13.2895%" alt="Spring"><img align="top" src="assets/p/049.svg" width="43.0263%" alt="">
 <img align="top" src="assets/p/050.svg" width="100%" alt="gh stats --user littlebit0">
 <img align="top" src="assets/p/051.svg" width="100%" alt="commits 1,957">
-<img align="top" src="assets/p/052.svg" width="100%" alt="issues 737">
-<img align="top" src="assets/p/053.svg" width="100%" alt="pull requests 590">
+<img align="top" src="assets/p/052.svg" width="100%" alt="issues 739">
+<img align="top" src="assets/p/053.svg" width="100%" alt="pull requests 591">
 <img align="top" src="assets/p/054.svg" width="100%" alt="stars 8">
-<img align="top" src="assets/p/055.svg" width="100%" alt="contributions 3,120  (1y)">
+<img align="top" src="assets/p/055.svg" width="100%" alt="contributions 3,123  (1y)">
 <img align="top" src="assets/p/056.svg" width="100%" alt="gh repo list --by-language">
 <img align="top" src="assets/p/057.svg" width="100%" alt="Python 3 repos  38%">
 <img align="top" src="assets/p/058.svg" width="100%" alt="JavaScript 1 repo  12%">
