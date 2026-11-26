@@ -22,16 +22,16 @@
 <img align="top" src="assets/p/043.svg" width="25.0%" alt=""><img align="top" src="assets/p/044.svg" width="11.9737%" alt="Figma"><img align="top" src="assets/p/045.svg" width="63.0263%" alt="">
 <img align="top" src="assets/p/046.svg" width="25.0%" alt="learning"><img align="top" src="assets/p/047.svg" width="18.6842%" alt="TypeScript"><img align="top" src="assets/p/048.svg" width="13.2895%" alt="Spring"><img align="top" src="assets/p/049.svg" width="43.0263%" alt="">
 <img align="top" src="assets/p/050.svg" width="100%" alt="gh stats --user littlebit0">
-<img align="top" src="assets/p/051.svg" width="100%" alt="commits 2,023">
+<img align="top" src="assets/p/051.svg" width="100%" alt="commits 2,076">
 <img align="top" src="assets/p/052.svg" width="100%" alt="issues 741">
 <img align="top" src="assets/p/053.svg" width="100%" alt="pull requests 594">
 <img align="top" src="assets/p/054.svg" width="100%" alt="stars 8">
-<img align="top" src="assets/p/055.svg" width="100%" alt="contributions 3,154  (1y)">
+<img align="top" src="assets/p/055.svg" width="100%" alt="contributions 3,162  (1y)">
 <img align="top" src="assets/p/056.svg" width="100%" alt="gh repo list --by-language">
 <img align="top" src="assets/p/057.svg" width="100%" alt="Python 3 repos  33%">
 <img align="top" src="assets/p/058.svg" width="100%" alt="C 2 repos  22%">
 <img align="top" src="assets/p/059.svg" width="100%" alt="JavaScript 1 repo  11%">
-<img align="top" src="assets/p/060.svg" width="100%" alt="Dart 1 repo  11%">
+<img align="top" src="assets/p/060.svg" width="100%" alt="TypeScript 1 repo  11%">
 <img align="top" src="assets/p/061.svg" width="100%" alt="Swift 1 repo  11%">
 <img align="top" src="assets/p/062.svg" width="100%" alt="Jupyter Notebook 1 repo  11%">
 <img align="top" src="assets/p/063.svg" width="100%" alt="git log --graph --since=30.days">
