@@ -31,7 +31,7 @@
 <img align="top" src="assets/p/057.svg" width="100%" alt="Python 3 repos  33%">
 <img align="top" src="assets/p/058.svg" width="100%" alt="C 2 repos  22%">
 <img align="top" src="assets/p/059.svg" width="100%" alt="JavaScript 1 repo  11%">
-<img align="top" src="assets/p/060.svg" width="100%" alt="TypeScript 1 repo  11%">
+<img align="top" src="assets/p/060.svg" width="100%" alt="Dart 1 repo  11%">
 <img align="top" src="assets/p/061.svg" width="100%" alt="Swift 1 repo  11%">
 <img align="top" src="assets/p/062.svg" width="100%" alt="Jupyter Notebook 1 repo  11%">
 <img align="top" src="assets/p/063.svg" width="100%" alt="git log --graph --since=30.days">
